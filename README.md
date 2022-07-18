@@ -1,5 +1,5 @@
 # desafiogithub
-## Examen ultimo bloque Introducción al desarrollo web (G25)
+## Examen último bloque Introducción al desarrollo web (G25)
 
 Tecnologías usadas:
 - HTML5
