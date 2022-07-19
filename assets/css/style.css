@@ -876,6 +876,9 @@ section {
   padding: 0;
 }
 
+.fork{
+  place-items: center;
+}
 
 /*--------------------------------------------------------------
 # Contact Me
